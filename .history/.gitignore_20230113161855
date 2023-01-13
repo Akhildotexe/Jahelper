@@ -1,3 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
 # Distribution / packaging
 .Python
 build/
@@ -8,6 +14,16 @@ eggs/
 history/
 
 
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -16,7 +32,14 @@ setup.py
 Jahelper.dmg
 appveyor.yml
 
+# Pyre type checker
+.pyre/
 
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
 
 #Other Files
 Jahelper.dmg
