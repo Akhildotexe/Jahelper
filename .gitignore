@@ -74,6 +74,7 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+.history/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -143,6 +144,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 appveyor.yml
+Jahelper.dmg
+setup.py
 
 # Pyre type checker
 .pyre/
