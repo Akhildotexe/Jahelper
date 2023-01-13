@@ -21,7 +21,9 @@ Jahelper.spec
 # Executables
 *.exe
 *.dmg
+*.manifest
 *.spec
+
 
 
 # PyCharm
