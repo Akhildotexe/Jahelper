@@ -5,6 +5,7 @@ develop-eggs/
 dist/
 .history/
 .eggs/
+.DS_Store
 
 # mypy
 .mypy_cache/
