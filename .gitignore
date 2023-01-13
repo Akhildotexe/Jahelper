@@ -3,18 +3,25 @@
 build/
 develop-eggs/
 dist/
-eggs/
-.eggs/
 .history/
-
+.eggs/
 
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
 setup.py
-Jahelper.dmg
 appveyor.yml
+
+# Other files and folders
+Jahelper.dmg
+yourfile.spec
+Jahelper.spec
+
+# Executables
+*.exe
+*.dmg
+*.spec
 
 
 # PyCharm
