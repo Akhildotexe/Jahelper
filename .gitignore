@@ -5,7 +5,7 @@ develop-eggs/
 dist/
 eggs/
 .eggs/
-history/
+.history/
 
 
 # mypy
@@ -16,10 +16,6 @@ setup.py
 Jahelper.dmg
 appveyor.yml
 
-
-
-#Other Files
-Jahelper.dmg
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
