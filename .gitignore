@@ -22,6 +22,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+.history/
 .installed.cfg
 *.egg
 MANIFEST
@@ -155,9 +156,6 @@ appveyor.yml
 
 # Cython debug symbols
 cython_debug/
-
-#Other Folders
-.history/
 
 #Other Files
 Jahelper.dmg
