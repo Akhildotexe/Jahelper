@@ -74,7 +74,7 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
-.history/
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -144,7 +144,6 @@ venv.bak/
 .dmypy.json
 dmypy.json
 appveyor.yml
-Jahelper.dmg
 setup.py
 
 # Pyre type checker
@@ -155,6 +154,12 @@ setup.py
 
 # Cython debug symbols
 cython_debug/
+
+#Other Folders
+.history/
+
+#Other Files
+Jahelper.dmg
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
