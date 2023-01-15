@@ -2,4 +2,4 @@ pyperclip >= 1.8.2
 keyboard >= 0.13.5
 flet >= 0.1.63
 PyInstaller >= 5.7.0
-py2appb >= 0.28.5
+py2app >= 0.28.5
