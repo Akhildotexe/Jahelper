@@ -13,7 +13,7 @@ dist/
 .dmypy.json
 dmypy.json
 setup.py
-appveyor.yml
+
 
 # Other files and folders
 Jahelper.dmg
